@@ -1,7 +1,154 @@
 # My Artificial Intelligence Bookmarks  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.
 
-## 2015 - 2018 (and counting...)
+## 2018-2019
+- <DT><A HREF="https://deeplearningsandbox.com/how-to-use-transfer-learning-and-fine-tuning-in-keras-and-tensorflow-to-build-an-image-recognition-94b0b02444f2"> How to use transfer learning and fine-tuning in Keras and Tensorflow to build an image recognition… </A> 
+- <DT><A HREF="https://medium.com/towards-data-science/how-to-deploy-machine-learning-models-with-tensorflow-part-1-make-your-model-ready-for-serving-776a14ec3198"> How to deploy Machine Learning models with TensorFlow. Part 1 — make your model ready for serving. </A> 
+- <DT><A HREF="https://github.com/manena/image-classification-indoors-outdoors/blob/master/image-classification.ipynb"> image-classification-indoors-outdoors/image-classification.ipynb at master · manena/image-classification-indoors-outdoors </A> 
+- <DT><A HREF="https://www.youtube.com/watch?v=xL-GKD49FXs"> (620) Learning to Communicate with Deep Multi-Agent Reinforcement Learning - Jakob Foerster - YouTube </A> 
+- <DT><A HREF="http://machinethink.net/blog/compressing-deep-neural-nets/"> Compressing deep neural nets </A> 
+- <DT><A HREF="https://eng.uber.com/neural-networks/"> Engineering Extreme Event Forecasting at Uber with Recurrent Neural Networks - Uber Engineering Blog </A> 
+- <DT><A HREF="http://www.pietervanos.net/knowledge/start-python-script-from-init-d/"> Run python script from init.d </A> 
+- <DT><A HREF="https://stackoverflow.com/questions/17747605/daemon-vs-upstart-for-python-script"> Daemon vs Upstart for python script - Stack Overflow </A> 
+- <DT><A HREF="https://www.oreilly.com/ideas/reinforcement-learning-for-complex-goals-using-tensorflow"> Reinforcement learning for complex goals, using TensorFlow - O'Reilly Media </A> 
+- <DT><A HREF="https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world"> Blockchains: How They Work and Why They’ll Change the World - IEEE Spectrum </A> 
+- <DT><A HREF="http://janlosert.com/NET292-profile.pdf"> NET292.profile.indd </A> 
+- <DT><A HREF="http://www.inference.vc/my-notes-on-the-numerics-of-gans/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI"> GANs are Broken in More than One Way: The Numerics of GANs </A> 
+- <DT><A HREF="https://www.youtube.com/watch?v=hvIptUuUCdU"> (74) Stanford Seminar - "Deep Learning for Dummies" Carey Nachenberg of Symantec and UCLA CS - YouTube </A> 
+- <DT><A HREF="https://hackernoon.com/fast-ai-what-i-learned-from-lessons-1-3-b10f9958e3ff"> Fast.ai: What I Learned from Lessons 1–3 – Hacker Noon </A> 
+- <DT><A HREF="https://eng.uber.com/horovod/"> Meet Horovod: Uber's Open Source Distributed Deep Learning Framework </A> 
+- <DT><A HREF="http://www.anishathalye.com/"> Home · cat /var/log/life </A> 
+- <DT><A HREF="https://www.kaggle.com/huseinzol05/2d-3d-visualization-using-nce-cost"> 2D & 3D Visualization using NCE Cost | Kaggle </A> 
+- <DT><A HREF="https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/"> New Theory Cracks Open the Black Box of Deep Learning | Quanta Magazine </A> 
+- <DT><A HREF="https://distill.pub/2017/feature-visualization/"> Feature Visualization </A> 
+- <DT><A HREF="https://software.intel.com/en-us/articles/face-it-the-artificially-intelligent-hairstylist?utm_source=taboola&utm_medium=referral&utm_campaign=AI_Student_ASMO_Q4_2017_Media_Buy"> Face It – The Artificially Intelligent Hairstylist | Intel® Software </A> 
+- <DT><A HREF="https://opensource.com/article/17/11/intro-tensorflow?sc_cid=7016000000127ECAAY"> What is TensorFlow? | Opensource.com </A> 
+- <DT><A HREF="https://medium.com/@surmenok/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0"> Estimating an Optimal Learning Rate For a Deep Neural Network – Medium </A> 
+- <DT><A HREF="https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b"> Understanding Hinton’s Capsule Networks. Part I: Intuition. </A> 
+- <DT><A HREF="https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952"> Capsule Networks Are Shaking up AI — Here’s How to Use Them </A> 
+- <DT><A HREF="https://research.googleblog.com/2017/10/eager-execution-imperative-define-by.html"> Research Blog: Eager Execution: An imperative, define-by-run interface to TensorFlow </A> 
+- <DT><A HREF="https://medium.com/intuitionmachine/google-and-ubers-best-practices-for-deep-learning-58488a8899b6"> Google and Uber’s Best Practices for Deep Learning – Intuition Machine – Medium </A> 
+- <DT><A HREF="https://blog.acolyer.org/2017/10/03/tfx-a-tensorflow-based-production-scale-machine-learning-platform/"> TFX: A TensorFlow-based production scale machine learning platform | the morning paper </A> 
+- <DT><A HREF="https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python"> Comprehensive data exploration with Python | Kaggle </A> 
+- <DT><A HREF="https://www.dlology.com/blog/an-easy-guide-to-build-new-tensorflow-datasets-and-estimator-with-keras-model/"> An Easy Guide to build new TensorFlow Datasets and Estimator with Keras Model | DLology </A> 
+- <DT><A HREF="http://amid.fish/distributed-tensorflow-a-gentle-introduction"> Distributed TensorFlow: A Gentle Introduction </A> 
+- <DT><A HREF="https://developers.googleblog.com/2017/09/introducing-tensorflow-datasets.html"> Google Developers Blog: Introduction to TensorFlow Datasets and Estimators </A> 
+- <DT><A HREF="https://developers.googleblog.com/2017/11/introducing-tensorflow-feature-columns.html?m=1"> Google Developers Blog: Introducing TensorFlow Feature Columns </A> 
+- <DT><A HREF="https://tensorly.github.io/stable/user_guide/index.html"> TensorLy: Tensor learning in Python </A> 
+- <DT><A HREF="https://www.oreilly.com/ideas/question-answering-with-tensorflow"> Question answering with TensorFlow - O'Reilly Media </A> 
+- <DT><A HREF="https://medium.com/intuitionmachine/kubernetes-gpus-tensorflow-8696232862ca"> Kubernetes + GPUs 💙 Tensorflow – Intuition Machine – Medium </A> 
+- <DT><A HREF="https://eng.uber.com/deep-neuroevolution/"> Welcoming the Era of Deep Neuroevolution - Uber Engineering Blog </A> 
+- <DT><A HREF="https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bk%2BLH0xAtQoitL9UwF53hBQ%3D%3D"> Deep Learning for NLP, advancements and trends in 2017 - Tryolabs Blog </A> 
+- <DT><A HREF="https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/"> Turning Design Mockups Into Code With Deep Learning - FloydHub Blog </A> 
+- <DT><A HREF="http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/"> AI and Deep Learning in 2017 – A Year in Review – WildML </A> 
+- <DT><A HREF="https://research.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html?m=1"> Research Blog: The Google Brain Team — Looking Back on 2017 (Part 1 of 2) </A> 
+- <DT><A HREF="https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/reinforcement_learning.html"> Reinforcement Learning · Artificial Inteligence </A> 
+- <DT><A HREF="https://airbnb.design/sketching-interfaces/"> Sketching Interfaces – Airbnb Design </A> 
+- <DT><A HREF="https://www.datasciencecentral.com/profiles/blogs/machine-learning-explained-understanding-supervised-unsupervised"> Machine Learning Explained: Understanding Supervised, Unsupervised, and Reinforcement Learning - Data Science Central </A> 
+- <DT><A HREF="http://cv-tricks.com/keras/fine-tuning-tensorflow/"> Fine-tuning Convolutional Neural Network on own data using Keras Tensorflow – CV-Tricks.com </A> 
+- <DT><A HREF="https://deepmind.com/blog/neural-approach-relational-reasoning/"> A neural approach to relational reasoning | DeepMind </A> 
+- <DT><A HREF="https://www.alexirpan.com/2018/02/14/rl-hard.html"> Deep Reinforcement Learning Doesn't Work Yet </A> 
+- <DT><A HREF="https://research.google.com/bigpicture/"> Big Picture: Google Visualization Research </A> 
+- <DT><A HREF="https://research.googleblog.com/2018/03/using-evolutionary-automl-to-discover.html"> Research Blog: Using Evolutionary AutoML to Discover Neural Network Architectures </A> 
+- <DT><A HREF="https://mortendahl.github.io/2018/03/01/secure-computation-as-dataflow-programs/"> Secure Computations as Dataflow Programs - Cryptography and Machine Learning </A> 
+- <DT><A HREF="https://hanxiao.github.io/2018/04/21/Teach-Machine-to-Comprehend-Text-and-Answer-Question-with-Tensorflow/"> Teach Machine to Comprehend Text and Answer Question with Tensorflow - Part I · Han Xiao Tech Blog </A> 
+- <DT><A HREF="http://karpathy.github.io/2016/05/31/rl/"> Deep Reinforcement Learning: Pong from Pixels </A> 
+- <DT><A HREF="https://bicepjai.github.io/machine-learning/2016/08/22/tensorboard-on-gcloud.html"> Tensorboard on gcloud </A> 
+- <DT><A HREF="https://medium.com/intro-to-artificial-intelligence/entity-extraction-using-deep-learning-8014acac6bb8"> Entity extraction using Deep Learning based on Guillaume Genthial work on NER </A> 
+- <DT><A HREF="https://towardsdatascience.com/deep-learning-book-notes-chapter-3-part-1-introduction-to-probability-49d13c997f2a"> Deep Learning Book Notes, Chapter 3 (part 1): Introduction to Probability </A> 
+- <DT><A HREF="https://blog.goodaudience.com/predicting-physical-activity-based-on-smartphone-sensor-data-using-cnn-lstm-9182dd13b6bc"> Predicting physical activity based on smartphone sensor data using CNN + LSTM </A> 
+- <DT><A HREF="https://towardsdatascience.com/learn-word2vec-by-implementing-it-in-tensorflow-45641adaf2ac"> Learn Word2Vec by implementing it in tensorflow – Towards Data Science </A> 
+- <DT><A HREF="https://alex-fabbri.github.io/TutorialBank/"> TutorialBank: Learning NLP Made Easier - Alexander R. Fabbri </A> 
+- <DT><A HREF="http://minimaxir.com/2018/05/text-neural-networks/"> How to Quickly Train a Text-Generating Neural Network for Free </A> 
+- <DT><A HREF="https://towardsdatascience.com/code2pix-deep-learning-compiler-for-graphical-user-interfaces-1256c346950b"> Code2Pix - Deep Learning Compiler for Graphical User Interfaces </A> 
+- <DT><A HREF="https://www.poly-ai.com/docs/naacl18.pdf"> naacl18.pdf </A> 
+- <DT><A HREF="https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9"> Deep Learning for Object Detection: A Comprehensive Review </A> 
+- <DT><A HREF="https://hanxiao.github.io/2018/06/25/4-Encoding-Blocks-You-Need-to-Know-Besides-LSTM-RNN-in-Tensorflow/"> 4 Sequence Encoding Blocks You Must Know Besides RNN/LSTM in Tensorflow · Han Xiao Tech Blog - Deep Learning, Tensorflow, Machine Learning and more! </A> 
+- <DT><A HREF="https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82"> Automated front-end development using deep learning </A> 
+- <DT><A HREF="https://thomas-tanay.github.io/post--L2-regularization/"> A New Angle on L2 Regularization </A> 
+- <DT><A HREF="http://anotherdatum.com/"> Another Datum </A> 
+- <DT><A HREF="https://indico.cern.ch/event/722319/contributions/3001310/attachments/1661268/2661638/IML-Sequence.pdf?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=NLP%20News"> IML-Sequence </A> 
+- <DT><A HREF="https://github.com/ml4a/ml4a-guides/blob/experimental/notebooks/q_learning.ipynb"> ml4a-guides/q_learning.ipynb at experimental · ml4a/ml4a-guides </A> 
+- <DT><A HREF="https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd/blob/master/tensorflow-rnn-tutorial/tutorial/00_RNN_predictions_playground.ipynb"> tensorflow-without-a-phd/00_RNN_predictions_playground.ipynb at master · GoogleCloudPlatform/tensorflow-without-a-phd </A> 
+- <DT><A HREF="https://www.learnopencv.com/convolutional-neural-network-based-image-colorization-using-opencv/"> Convolutional Neural Network based Image Colorization using OpenCV | Learn OpenCV </A> 
+- <DT><A HREF="https://blog.feedly.com/transfer-learning-in-nlp/"> Transfer Learning in NLP – Feedly Blog </A> 
+- <DT><A HREF="https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html"> CS 229 - Deep Learning Cheatsheet </A> 
+- <DT><A HREF="https://ai.googleblog.com/2018/08/introducing-new-framework-for-flexible.html?m=1"> Google AI Blog: Introducing a New Framework for Flexible and Reproducible Reinforcement Learning Research </A> 
+- <DT><A HREF="https://medium.com/tensorflow/building-a-text-classification-model-with-tensorflow-hub-and-estimators-3169e7aa568"> Building a text classification model with TensorFlow Hub and Estimators </A> 
+- <DT><A HREF="https://towardsdatascience.com/deploy-tensorflow-models-9813b5a705d5"> Deploy TensorFlow models – Towards Data Science </A> 
+- <DT><A HREF="https://mohitjain.me/category/deep-learning/"> Deep Learning – Mohit Jain </A> 
+- <DT><A HREF="https://habr.com/company/mailru/blog/417767/"> Анализ тональности текстов с помощью сверточных нейронных сетей / Блог компании Mail.Ru Group / Хабр </A> 
+- <DT><A HREF="https://hanxiao.github.io/2018/09/09/Dual-Ask-Answer-Network-for-Machine-Reading-Comprehension/"> Machine Reading Comprehension Part II: Learning to Ask & Answer · Han Xiao Tech Blog - Deep Learning, Tensorflow, Machine Learning and more! </A> 
+- <DT><A HREF="https://minimaxir.com/2018/05/text-neural-networks/"> How to Quickly Train a Text-Generating Neural Network for Free </A> 
+- <DT><A HREF="https://towardsdatascience.com/auto-keras-or-how-you-can-create-a-deep-learning-model-in-4-lines-of-code-b2ba448ccf5e"> Auto-Keras, or How You can Create a Deep Learning Model in 4 Lines of Code </A> 
+- <DT><A HREF="https://www.kdnuggets.com/2018/10/more-effective-transfer-learning-nlp.html"> More Effective Transfer Learning for NLP </A> 
+- <DT><A HREF="https://medium.com/@gautam.karmakar/machine-learning-using-google-cloud-ml-engine-465413d08510"> Machine Learning using Google Cloud ML Engine. – Gautam Karmakar – Medium </A> 
+- <DT><A HREF="https://medium.com/tensorflow/training-and-serving-ml-models-with-tf-keras-fd975cc0fa27"> Training and Serving ML models with tf.keras – TensorFlow – Medium </A> 
+- <DT><A HREF="https://medium.freecodecamp.org/how-to-deploy-tensorflow-models-to-production-using-tf-serving-4b4b78d41700"> How to deploy TensorFlow models to production using TF Serving </A> 
+- <DT><A HREF="https://blog.mgechev.com/2018/10/20/transfer-learning-tensorflow-js-data-augmentation-mobile-net/"> Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation · Minko Gechev's blog </A> 
+- <DT><A HREF="https://medium.com/netflix-techblog/notebook-innovation-591ee3221233"> Beyond Interactive: Notebook Innovation at Netflix – Netflix TechBlog – Medium </A> 
+- <DT><A HREF="https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/?fbclid=IwAR2fLC3913dP3h-OPCDDkGT3dgdI_xvPBYY0Le5aTZPoyTiBaWhJnzTFoOo"> Mask R-CNN with OpenCV - PyImageSearch </A> 
+- <DT><A HREF="https://jalammar.github.io/illustrated-bert/"> The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) – Jay Alammar – Visualizing machine learning one concept at a time </A> 
+- <DT><A HREF="https://medium.com/tensorflow/serving-ml-quickly-with-tensorflow-serving-and-docker-7df7094aa008"> Serving ML Quickly with TensorFlow Serving and Docker </A> 
+- <DT><A HREF="https://hai.stanford.edu/news/the_intertwined_quest_for_understanding_biological_intelligence_and_creating_artificial_intelligence/"> Human-Centered AI </A> 
+- <DT><A HREF="https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html"> Keras as a simplified interface to TensorFlow: tutorial </A> 
+- <DT><A HREF="https://hanxiao.github.io/2019/01/02/Serving-Google-BERT-in-Production-using-Tensorflow-and-ZeroMQ/"> Serving Google BERT in Production using Tensorflow and ZeroMQ · Han Xiao Tech Blog - Deep Learning, NLP, AI </A> 
+- <DT><A HREF="https://www.lyrn.ai/2019/01/06/massively-multilingual-sentence-embeddings-for-zero-shot-transfer/"> Multilingual Sentence Embeddings for Zero-Shot Transfer – Applying a Single Model on 93 Languages | Lyrn.AI </A> 
+- <DT><A HREF="https://medium.com/ymedialabs-innovation/deploy-flask-app-with-nginx-using-gunicorn-and-supervisor-d7a93aa07c18"> Deploy flask app with nginx using gunicorn and supervisor </A> 
+- <DT><A HREF="chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Dept.%20of%20Computer%20Sci.%3A%20Module%20Handbook%20for%20the%20Bachelor%20and%20Master%20Programmes&uri=https://www.informatik.uni-kl.de/en/studium/lehrveranstaltungen/modulhb/#mod-89-7157"> Dept. of Computer Sci.: Module Handbook for the Bachelor and Master Programmes </A> 
+- <DT><A HREF="https://www.topbots.com/most-important-ai-nlp-research/?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com"> 14 NLP Research Breakthroughs You Can Apply To Your Business </A> 
+- <DT><A HREF="https://jalammar.github.io/illustrated-bert/?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com&fbclid=IwAR3W2x0gliwwLxs_aq31sO7-P8mMHwJw4TSxA5f9HdrYVfw5Fu9rXqC50CA"> The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) – Jay Alammar – Visualizing machine learning one concept at a time </A> 
+- <DT><A HREF="https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#machine-learning-statistics-and-probability"> A gallery of interesting Jupyter Notebooks · jupyter/jupyter Wiki </A> 
+- <DT><A HREF="https://sites.google.com/view/berkeley-cs294-158-sp19/home?fbclid=IwAR1kZ2ySKVILpfWjWsvKGiyEUOWiH7Ry1v4Gx_6hezXFP3N1L0nxFfZHu8s"> CS294-158 Deep Unsupervised Learning Spring 2018 </A> 
+- <DT><A HREF="https://hackernoon.com/object-detection-in-google-colab-with-custom-dataset-5a7bb2b0e97e"> Object Detection in Google Colab with Custom Dataset </A> 
+- <DT><A HREF="https://medium.com/sfu-big-data/advanced-visualization-for-data-scientists-with-matplotlib-15c28863c41c"> Advanced Visualization for Data Scientists with Matplotlib </A> 
+- <DT><A HREF="https://github.com/FavioVazquez/ds-cheatsheets"> FavioVazquez/ds-cheatsheets: List of Data Science Cheatsheets to rule the world </A> 
+- <DT><A HREF="https://towardsdatascience.com/gentle-dive-into-math-behind-convolutional-neural-networks-79a07dd44cf9?fbclid=IwAR3A-58pTeXcUGua3Ahx6XacInzPDJRmrCZRFUHspNu8yd55Wu0LEpWKtWI"> Gentle Dive into Math Behind Convolutional Neural Networks </A> 
+- <DT><A HREF="https://journalofbigdata.springeropen.com/track/pdf/10.1186/s40537-019-0191-6"> Customer churn prediction in telecom using machine learning in big data platform </A> 
+- <DT><A HREF="https://drscotthawley.github.io/How-To-Port-Forward-Jupyter-Notebooks/"> How to Port-Forward Jupyter Notebooks – Scott Hawley – Development Blog </A> 
+- <DT><A HREF="https://huyenchip.com/2019/05/12/top-8-trends-from-iclr-2019.html"> Top 8 trends from ICLR 2019 </A> 
+- <DT><A HREF="https://jalammar.github.io/illustrated-word2vec/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter"> The Illustrated Word2vec – Jay Alammar – Visualizing machine learning one concept at a time </A> 
+- <DT><A HREF="https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html"> Google AI Blog: Transformer-XL: Unleashing the Potential of Attention Models </A> 
+- <DT><A HREF="chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=TensorFlow%20%26%20reflective%20tape%C2%A0%3A%20why%20I%E2%80%99m%20bad%20at%20basketball%20%F0%9F%8F%80&pos=11354&uri=https://towardsdatascience.com/tensorflow-reflective-tape-why-im-bad-at-basketball-a30a923332de"> TensorFlow & reflective tape : why I’m bad at basketball 🏀 </A> 
+- <DT><A HREF="https://www.topbots.com/nlu-topic-modeling/?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com&fbclid=IwAR3SjXd892c9tsCENKyQtykz-i4JtZxcnGRMc1SdNZVfppGsKqBdOcAHAd8"> Topic Modeling with LSA, PLSA, LDA & lda2Vec </A> 
+- <DT><A HREF="https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900"> GAN — Some cool applications of GANs. – Jonathan Hui – Medium </A> 
+- <DT><A HREF="https://karpathy.github.io/2019/04/25/recipe/?fbclid=IwAR1_G5KlP_3ljH2Nexo1Qf0zxxK30AjrV5P9vbAtPIuFeFTvu_JxHbe1HUY"> A Recipe for Training Neural Networks </A> 
+- <DT><A HREF="https://brilliant.org/courses/quantum-computing/"> Practice Quantum Computing | Brilliant </A> 
+- <DT><A HREF="https://github.com/dennybritz/reinforcement-learning"> dennybritz/reinforcement-learning: Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course. </A> 
+- <DT><A HREF="https://weightagnostic.github.io/"> Weight Agnostic Neural Networks </A> 
+- <DT><A HREF="http://www.peterbloem.nl/blog/transformers"> Transformers from scratch | Peter Bloem </A> 
+- <DT><A HREF="http://jalammar.github.io/illustrated-transformer/"> The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time </A> 
+- <DT><A HREF="https://jalammar.github.io/illustrated-gpt2/"> The Illustrated GPT-2 (Visualizing Transformer Language Models) – Jay Alammar – Visualizing machine learning one concept at a time </A> 
+- <DT><A HREF="http://ml-dl.com/"> ml-dl - </A> 
+- <DT><A HREF="https://drive.google.com/file/d/12rXqPMb5MjPyCfj8fpIHskZXQuQiykmu/view"> Indaba2019 NLP Talk.pdf - Google Drive </A> 
+- <DT><A HREF="https://jacobbuckman.com/2019-09-23-automation-via-reinforcement-learning/?fbclid=IwAR2PnVywt45E0q0P7DaFOLa7mv5ZMkYJ9tIHF8kDyB3_OLrtw7Rc-o3-CIM"> Automation via Reinforcement Learning </A> 
+- <DT><A HREF="http://web.stanford.edu/class/cs224n/index.html#schedule"> CS 224N | Home </A> 
+- <DT><A HREF="https://github.com/mihail911/nlp-library"> mihail911/nlp-library: curated collection of papers for the nlp practitioner 📖👩‍🔬 </A> 
+- <DT><A HREF="https://pythonspeed.com/docker/"> Production-ready Docker images </A> 
+- <DT><A HREF="https://medium.com/key-lessons-from-books/the-key-lessons-from-where-good-ideas-come-from-by-steven-johnson-1798e11becdb"> The key lessons from “Where Good Ideas Come From” by Steven Johnson </A> 
+- <DT><A HREF="https://brianasimba.github.io/MachineLearningblog//Neural-Network-Example/?fbclid=IwAR3rneUrHWazLbsWuR96Qvkc-wWu-ppd4I2EvlIJUjad-7IOU-6kXArMEuE"> Neural Networks Example, Math and code – Brian Omondi Asimba </A> 
+- <DT><A HREF="https://medium.com/comet-ml/applyingmachinelearningtoaudioanalysis-utm-source-kdnuggets11-19-e160b069e88"> How to apply machine learning and deep learning methods to audio analysis </A> 
+- <DT><A HREF="https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/"> A Visual Guide to Using BERT for the First Time – Jay Alammar – Visualizing machine learning one concept at a time </A> 
+- <DT><A HREF="https://slideslive.com/neurips/"> NeurIPS · SlidesLive </A> 
+- <DT><A HREF="https://towardsdatascience.com/from-pre-trained-word-embeddings-to-pre-trained-language-models-focus-on-bert-343815627598"> https://towardsdatascience.com/from-pre-trained-word-embeddings-to-pre-trained-language-models-focus-on-bert-343815627598 </A> 
+- <DT><A HREF="https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/"> Joel Grus – Fizz Buzz in Tensorflow </A> 
+- <DT><A HREF="https://www.youtube.com/watch?v=fyeQGpXIrjc&t=544s"> (160) Visual Interpretability of CNNs | Himanshu Rawlani | PyData Pune Meetup | July 2019 - YouTube </A> 
+- <DT><A HREF="https://memosisland.blogspot.com/2020/02/a-simple-and-interpretable-performance.html"> Memo's Island: A simple and interpretable performance measure for a binary classifier </A> 
+- <DT><A HREF="https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Data-Science-Periodic-Table.pdf"> Data-Science-Periodic-Table.pdf </A> 
+- <DT><A HREF="https://medium.com/data-science-engineering/productising-tensorflow-keras-models-via-tensorflow-serving-69e191cb1f37?source=linkShare-e1892a13bc4b-1584180740&fbclid=IwAR0y9GxhA76cBkosJ1Cd5KNix0BmeaDc6QejkPkfPfDBfsynNgm4vCovY5w&_branch_match_id=752894265655536253"> Writing a Generic TensorFlow Serving Client for Tensorflow Serving models </A> 
+- <DT><A HREF="https://medium.com/data-science-engineering/productising-tensorflow-keras-models-via-tensorflow-serving-69e191cb1f37"> Writing a Generic TensorFlow Serving Client for Tensorflow Serving models </A> 
+- <DT><A HREF="http://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf"> dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf </A> 
+- <DT><A HREF="https://graphdeeplearning.github.io/post/transformers-are-gnns/"> Transformers are Graph Neural Networks | NTU Graph Deep Learning Lab </A> 
+- <DT><A HREF="https://towardsdatascience.com/7-advanced-tricks-in-pandas-for-data-science-41a71632b5d9"> 7 advanced pandas tricks for data science - Towards Data Science </A> 
+- <DT><A HREF="https://ai.googleblog.com/2020/04/xtreme-massively-multilingual-multi.html"> Google AI Blog: XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization </A> 
+- <DT><A HREF="https://poloclub.github.io/cnn-explainer/"> CNN Explainer </A> 
+- <DT><A HREF="https://poloclub.github.io/"> Polo Club of Data Science @ Georgia Tech: Human-Centered AI, Deep Learning Interpretation & Visualization, Cybersecurity, Large Graph Visualization and Mining | Georgia Tech | Atlanta, GA 30332, United States </A> 
+- <DT><A HREF="https://sararobinson.dev/2020/04/30/baking-machine-learning.html#recipe"> Sara Robinson </A> 
+- <DT><A HREF="https://lindeloev.github.io/tests-as-linear/"> Common statistical tests are linear models (or: how to teach stats) </A> 
+- <DT><A HREF="https://amitness.com/2020/05/zero-shot-text-classification/"> Zero-Shot Learning for Text Classification </A> 
+
+## 2015 - 2018 
+
 - <DT><A HREF="https://www.amazon.in/Python-Deep-Learning-Projects-demystifying/dp/1788997093" ADD_DATE="1440258062">Python Deep Learning Projects</A>
 - <DT><A HREF="https://www.deeplearningbook.org/" ADD_DATE="1440258062">Deep Learning </A>
 
@@ -259,6 +406,7 @@ Curated list of my reads, implementations and core concepts of Artificial Intell
 - <DT><A HREF="https://eng.uber.com/uber-ai-residency/" ADD_DATE="1519181818" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAA/ElEQVQ4jdWQK4+EQBCEm3kwjEAAm+AGi8KhcDj+Bz+XBEGCBILA8giBhKFhxW72krNr7j5RolOVShfAX8UwjJcSQgDgo6/7V1AAEEJ4nielVEoppRAxiiKtdRiGjLFlWX4HXNfNssz3/SRJ0jQVQsRx3HVdnueIWNc1IeS+75/Atm22bQ/D0DTNNE1FUazr2vd9VVVt287z/HEDwPtXz/P2fUfE+7455+d5cs611pxzzjkiIuK6rgDAAIBSGgTBsiyPx4MxNo6jlJIxprWepokQ4jjOcRxlWb4bAMCyLK21ZVmmac7zTCklhFzXdZ4nAEgphRDjOH478X/lCWCscZuUgDehAAAAAElFTkSuQmCC">Introducing the Uber AI Residency</A>
 - <DT><A HREF="http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html" ADD_DATE="1519279201" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACKElEQVQ4jZWTQUiTYRjHf+/3fdP5TR0TVgjiYTkUyfqyQr0kFHT0GmR06Bh06BAdCyo6FbRLEgkR1aWOEYjaYQgGS1klS2lMS5du1WjuG5v79u7tENnWRtRzfHifH//n+f9foZQSQAkw+L/aALobDql8ntLMFHI5BkKg9++n6cRJREtL3VvxpwJnYZ78lUuor1/A1QQKKJfQ9nbiuX4bY2CwRoFWTZOJZfI3L4LII/wmbXcf0HpnAuE3UZUs+WsXkBurNQpqAMWnE2imgebz4DoyhLanE72nD+OAhebzINyCnWf3GgMquW3kyhLC247wttM0No4z9xxnformsfHdfvndImqnWA9Q6RRy4SNyaROHNopdfTivXuLMTVEMDlJ23MilTeTrBJVMph4gfB0gBCpjkw2OkH78CPtzhYzf4lN8ley+IVTGBl1H83obA/RDB8Fr0nHqNL7wC5o/vMHzfoFOQ+E7cxZMF8bIMML0NLax/DaCffU8eqAXGY9Vma2hB/uRiRVab9zH6B3YtbE+B/MzFB/eQpV+HwpAuE3c5y7jOnzsV6sxAKDy/RvlyCwymfiZxK4ejKPH0dp91cwGQZKSyclJZiOLbPUO80T6CW3BzE4L2xVBKBQiHA7XKKv5C9PT08TjcVKpFJFIhEAggGEYJJNJbNsml8uxvr5eu1r1CrFYDNM0iUajjI6Okk6nUUqxtrZGoVDAsiyy2SyWZf39Bv9YG0D3DxaX8OZhuFX0AAAAAElFTkSuQmCC">The Matrix Calculus You Need For Deep Learning </A>
         </DL><p>
+
 
 
 
