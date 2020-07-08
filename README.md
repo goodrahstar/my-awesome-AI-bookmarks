@@ -1,7 +1,7 @@
 # My Artificial Intelligence Bookmarks  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.
 
-
+<a href=“https://tracking.gitads.io/?repo=draw-neural-network/”><img src="https://images.gitads.io/draw-neural-network/" alt=“GitAds”/> </a>
 
 ## 🎉🎉🎉 Creating more structured view on [Notion Page](https://www.notion.so/neutralspaceai/5117196b7c64485cad28b10a10d591c0?v=831d7a547cca4d3fad4695549f7fe4b4)
 
