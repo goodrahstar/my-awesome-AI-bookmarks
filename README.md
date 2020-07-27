@@ -414,7 +414,7 @@ Curated list of my reads, implementations and core concepts of Artificial Intell
 
 
 
-<a href="https://tracking.gitads.io/?repo=draw-neural-network/"> Check out<img src="https://images.gitads.io/draw-neural-network/" alt=“GitAds”/> </a>
+<a href="https://tracking.gitads.io/?repo=my-awesome-AI-bookmarks"> Check out <img src="https://images.gitads.io/my-awesome-AI-bookmarks" alt="GitAds"/></a>
 -----
 ### Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/goodrahstar/my-awesome-AI-bookmarks/pulls). 
