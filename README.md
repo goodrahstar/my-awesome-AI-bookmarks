@@ -6,6 +6,7 @@ Curated list of my reads, implementations and core concepts of Artificial Intell
 ## 2018-2019
 - <DT><A HREF="https://deeplearningsandbox.com/how-to-use-transfer-learning-and-fine-tuning-in-keras-and-tensorflow-to-build-an-image-recognition-94b0b02444f2"> How to use transfer learning and fine-tuning in Keras and Tensorflow to build an image recognition… </A> 
 - <DT><A HREF="https://medium.com/towards-data-science/how-to-deploy-machine-learning-models-with-tensorflow-part-1-make-your-model-ready-for-serving-776a14ec3198"> How to deploy Machine Learning models with TensorFlow. Part 1 — make your model ready for serving. </A> 
+- <DT><A HREF="https://www.scaler.com/blog/machine-learning/#methods-of-machine-learning"> Methods of Machine Learning - Scaler Blogs </A> 
 - <DT><A HREF="https://github.com/manena/image-classification-indoors-outdoors/blob/master/image-classification.ipynb"> image-classification-indoors-outdoors/image-classification.ipynb at master · manena/image-classification-indoors-outdoors </A> 
 - <DT><A HREF="https://www.youtube.com/watch?v=xL-GKD49FXs"> (620) Learning to Communicate with Deep Multi-Agent Reinforcement Learning - Jakob Foerster - YouTube </A> 
 - <DT><A HREF="http://machinethink.net/blog/compressing-deep-neural-nets/"> Compressing deep neural nets </A> 
